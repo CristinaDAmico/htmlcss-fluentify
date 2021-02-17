@@ -155,7 +155,7 @@ h6 {
 }
 
 /* section 3  */
-.col {
+.columns {
     width: 33%;
     height: 550px;
     text-align: center;
@@ -179,4 +179,31 @@ h6 {
 .columns hr {
     margin: 25px auto;
     width: 30%;
+}
+
+/* section 4 */
+.mountain {
+    margin: 30px auto;
+    padding: 30px;
+}
+
+.mountain-image img {
+    width: 100%;
+}
+
+.mountain-text {
+    padding: 0 50px;
+}
+
+.mountain-text h2 {
+    font-size: 30px;
+    color: black;
+}
+
+.mountain-text p {
+    margin: 30px auto;
+}
+
+.mountain-text a {
+    color: #5586bc;
 }
