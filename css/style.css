@@ -153,3 +153,30 @@ h6 {
 .subtitle h2 {
     color: black;
 }
+
+/* section 3  */
+.col {
+    width: 33%;
+    height: 550px;
+    text-align: center;
+    margin: 30px auto;
+    padding: 25px;
+}
+
+.columns img{
+    height: 45%;
+    margin: 20px;
+}
+
+.columns h2 {
+    color: #7cbb01;
+}
+
+.columns p {
+    line-height: 25px;
+}
+
+.columns hr {
+    margin: 25px auto;
+    width: 30%;
+}
