@@ -114,6 +114,7 @@ h6 {
 }
 
 /* MAIN CONTENT */
+/* section 1  */
 .jumbotron {
     height: 480px;
     background-color: #0d325a;
@@ -140,7 +141,15 @@ h6 {
     font-size: 48px;
     color: white;
 }
+ /* section 2 */
+.subtitle {
+    padding: 50px;
+    font-size: 23px;
+    line-height: 40px;
+    text-align: center;
+    background-color: #d3d3d3;
+}
 
-
-
-
+.subtitle h2 {
+    color: black;
+}
