@@ -212,17 +212,35 @@ h6 {
 footer {
     background-color: #d3d3d3;
     height: 200px;
+    line-height: 200px; 
+    position: relative;  
 }
-
-.footer-right {
-    height: 200px;
-    background-color: rgba(0,0,0,0.5);
-}
-
 
 .footer-left h2 {
     font-size: 30px;
     text-align: left;
-    line-height: 200px;
     color: black;
+}
+
+.footer-right {
+    text-align: right;
+}
+
+.footer-right select {
+    margin: 0 30px;
+    border: transparent;
+    border-bottom: 1px solid #8b8b8b;
+    font-size: 16px;
+    color: #8b8b8b;
+    background-color: #d3d3d3;
+}
+
+footer a.btn {
+    line-height: 1;
+}
+
+.help {
+    position: fixed;
+    bottom: 0;
+    right: 100px;
 }
