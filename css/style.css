@@ -306,5 +306,28 @@ footer a.btn {
     color: #aec4ce;
 }
 
+/* section 7 */
+.section-7 {
+    margin: 100px 0;
+    background-color: #0d325a;
+}
+
+.section-7 h2 {
+    font-size: 30px;
+    color: white;
+}
+
+.section-7 .content {
+    width: 30%;
+    padding: 5% 0;
+}
+
+.section-7 .content p {
+    line-height: 25px;
+    margin: 40px 0;
+}
+
+
+
 
 
