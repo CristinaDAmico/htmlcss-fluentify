@@ -327,6 +327,52 @@ footer a.btn {
     margin: 40px 0;
 }
 
+/* section 8 */
+.section-8 > h2 {
+    text-align: center;
+}
+
+.section-8 .sezione {
+    padding: 40px;
+    width: 33%;
+}
+
+.img-small {
+    height: 100px;
+    margin-top: 50px;
+}
+
+.section-8 img {
+    height: 80%;
+}
+
+.section-8 h2 {
+    margin: 30px 0;
+    color: black;
+}
+
+.section-8 p {
+    line-height: 25px;
+}
+
+.section-8 hr{
+    margin: 30px 0;
+    border-top: 8px solid;
+}
+
+.section-8 .first{
+    color: #9ac7f0;
+}
+
+.section-8 .second{
+    color: #f5a510;
+}
+
+.section-8 .third{
+    color: #83b311;
+}
+
+
 
 
 
