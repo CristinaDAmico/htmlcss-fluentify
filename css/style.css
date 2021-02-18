@@ -82,6 +82,9 @@ h2.black {
     color: black;
 }
 
+p.big{
+    font-size: 20px;
+}
 
 /* MAIN HEADER */
 .main-header{
@@ -206,11 +209,6 @@ h2.black {
     padding: 0 50px;
 }
 
-/* .mountain-text h2 {
-    font-size: 30px;
-    color: black;
-} */
-
 .mountain-text p {
     margin: 30px auto;
 }
@@ -227,9 +225,7 @@ footer {
 }
 
 .footer-left h2 {
-    font-size: 30px;
     text-align: left;
-    color: black;
 }
 
 .footer-right {
@@ -274,7 +270,6 @@ footer a.btn {
 
 .hands_text p {
     margin: 20px 0;
-    font-size: 20px;
 }
 
 .hands_text div {
@@ -285,3 +280,31 @@ footer a.btn {
     padding: 12px;
     position: absolute;  
 }
+
+/* section 6 */
+.section-6 {
+    text-align: center;
+    margin-top: 200px;
+}
+
+.section-6 img {
+    width: 70%;
+    margin-bottom: 30px;
+}
+
+.section-6 span {
+    color: #86af22;
+}
+
+.section-6 p {
+    margin: 20px auto;
+    width: 50%;
+}
+
+.section-6 a {
+    font-size: 18px;
+    color: #aec4ce;
+}
+
+
+
