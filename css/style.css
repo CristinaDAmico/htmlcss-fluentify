@@ -388,6 +388,46 @@ footer a.btn {
     color: #bb8837;
 }
 
+/* section 10 */
+.section-10 {
+    color: #8a9bb9;
+    background-color:#17416b;
+}
+
+.section-10 .part {
+    padding: 50px 0;
+}
+
+.section-10 .menu-footer {
+    font-size: 16px;
+    list-style: none;
+    line-height: 35px;
+}
+
+.section-10 .menu-footer li a {
+    color: #8a9bb9;
+    text-decoration: none;
+}
+
+#only {
+    margin-bottom: 20px;
+}
+
+.section-10 h3 {
+    color: white;
+}
+
+.part.two {
+    text-align: right;
+}
+
+.special {
+    margin: 40px 0;
+}
+
+
+
+
 
 
 
