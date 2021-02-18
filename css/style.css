@@ -76,6 +76,13 @@ h6 {
     padding: 20px;
 }
 
+/* fonts */
+h2.black {
+    font-size: 30px;
+    color: black;
+}
+
+
 /* MAIN HEADER */
 .main-header{
     text-transform: uppercase;
@@ -199,10 +206,10 @@ h6 {
     padding: 0 50px;
 }
 
-.mountain-text h2 {
+/* .mountain-text h2 {
     font-size: 30px;
     color: black;
-}
+} */
 
 .mountain-text p {
     margin: 30px auto;
@@ -247,4 +254,34 @@ footer a.btn {
     bottom: 0;
     right: 100px;
     border-radius: 5px 5px 0 0 ;
+}
+
+/* MAIN CONTENT 2 */
+/* section 5 */
+.section-5 {
+    height: 400px;
+}
+
+.hands img {
+    width: 100%;
+    padding: 10% 0;
+}
+
+.hands_text {
+    padding: 6%;
+    position: relative;
+}
+
+.hands_text p {
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+.hands_text div {
+    display: inline-block;
+    width: 40%;
+    text-align: center;
+    color: #aec4ce;
+    padding: 12px;
+    position: absolute;  
 }
